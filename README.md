@@ -1,2 +1,2 @@
 # hello-world
-join another repositry
+join another repository
